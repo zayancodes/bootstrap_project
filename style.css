@@ -1,0 +1,112 @@
+.bggg{
+    background-color: #3a3a3a;
+}
+
+header{
+    background-color: rgb(245, 245, 245);
+}
+
+.navboxin {
+    background-color: #b7824e;
+    border-radius: 5px;
+}
+
+.mycard{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px 0px 20px 0px;
+    background-color: #b7824e;
+}
+.pric {
+    height: 100vh;
+}
+.card{
+    transition: 0.4s all;
+
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.mynav{
+    background-color: #041020;
+    border-radius: 10px;
+}
+
+.cardb{
+    margin-bottom: 80px;
+}
+
+.logo{
+    width: 50px;
+}
+
+.mainColor{
+    color: #b7824e;
+}
+.bg-color{
+    background-color: #041020;
+}
+
+.nav-pills li a{
+    color: #b7824e;
+}
+.nav-pills li a:hover{
+    color: #d6b491;
+}
+
+.hotelpic{
+    width: 430px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+
+.bioo{
+    color: white;
+}
+
+.mybtn {
+    background-color: #b7824e; 
+    border-radius: 5px;
+    border: none;
+    color: #041020;
+    padding: 7px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+}
+.mybtn:hover{
+    background-color: #d6b491;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.155);
+}
+
+.detailbg{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.419), rgba(0, 0, 0, 0.663)), url(images/background\ pic.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.uparrow{
+    position: fixed;
+    background-color: #041020;
+    right: 50px;
+    bottom: 50px;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.201);
+}
+.uparrow a{
+    text-decoration: none;
+
+}
+.uparrow a span{
+    font-size: 30px;
+    padding: 18px;
+    color: white;
+}
+
